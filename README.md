@@ -3,7 +3,13 @@
 
 ## Project Description
 **PDF_EXTRACTOR** is a project designed to extract and process data from PDF files using the **Retrieval-Augmented Generation (RAG)** approach. This project leverages tools like **LangChain**, **ChromaDB**, and **Streamlit** to build a robust pipeline for querying and retrieving information from PDFs.
+## Project Resources
 
+- [Download PDF](./Mini-Project_ Extracting Structured Data from PDF.pdf)
+
+## Application Screenshot
+
+![Application Screenshot](./summary-of-this-project.png)
 This work is inspired by [Thu Vu's YouTube tutorial](https://www.youtube.com/watch?v=EFUE4DHiAPM&ab_channel=ThuVu) and her repository [structured-rag-pdf](https://github.com/thu-vu92/structured-rag-pdf).
 
 ## What I Learned
